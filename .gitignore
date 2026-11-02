@@ -1,0 +1,10 @@
+.gstack/
+node_modules/
+app/dist/
+*.local
+.DS_Store
+
+# Propuesta comercial: datos de contacto y precios, no se publican
+propuesta.html
+Propuesta-Agenda-WhatsApp.pdf
+preview.png
